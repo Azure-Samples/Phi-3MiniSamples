@@ -9,7 +9,7 @@ diffusers==0.2.2
 filelock==3.4.1
 Flask==2.2.5
 huggingface-hub==0.14.1
-idna==3.4
+idna==3.7
 importlib-metadata==4.8.3
 importlib-resources==5.4.0
 itsdangerous==2.0.1
