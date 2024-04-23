@@ -1,57 +1,34 @@
-# Project Name
+# Unlocking Generative AI with Phi-3-mini: A Guide to Inference and Deployment
 
-(short, 1-3 sentenced, description of the project)
+Discover how Phi-3-mini, a new series of models from Microsoft, enables deployment of Large Language Models (LLMs) on edge devices and IoT devices. Learn how to use Semantic Kernel, Ollama/LlamaEdge, and ONNX Runtime to access and infer Phi-3-mini models, and explore the possibilities of generative AI in various application scenarios.
 
 ## Features
 
-This project framework provides the following features:
+inference phi3-mini model in:
 
-* Feature 1
-* Feature 2
-* ...
+* Semantic Kernel
+* Ollama
+* LlamaEdge
+* ONNX Runtime
 
 ## Getting Started
 
 ### Prerequisites
 
-(ideally very short, if any)
+- macOS/Windows/Liunx
+- python 3.10+
 
-- OS
-- Library version
-- ...
+### Guideline
 
-### Installation
+please read my blog https://aka.ms/phi3gettingstarted  to run the demo 
 
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
 
 ## Resources
 
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+- Phi-3 Azure blog https://aka.ms/phi3blog-april
+- Phi-3 technical report https://aka.ms/phi3-tech-report
+- Learn ONNX Runtime Generative AI https://github.com/microsoft/onnxruntime-genai
+- Learn  about  Semantic Kernel https://aka.ms/SemanticKernel
+- Read Semantic Kernel Cookbook https://aka.ms/SemanticKernelCookBook
+- Learn about LlamaEdge https://github.com/LlamaEdge/LlamaEdge
+- Learn about Ollama https://ollama.com/

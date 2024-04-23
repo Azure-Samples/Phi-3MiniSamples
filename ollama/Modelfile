@@ -1,0 +1,6 @@
+FROM Your phi3-mini gguf location
+TEMPLATE """<|user|>
+{{.Prompt}}<|end|>
+<|assistant|>"""
+PARAMETER stop <|end|>
+PARAMETER num_ctx 4096
