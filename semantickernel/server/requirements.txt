@@ -28,7 +28,7 @@ sacremoses==0.0.53
 six==1.16.0
 tokenizers==0.13.3
 torch==2.2.1
-tqdm==4.64.1
+tqdm==4.66.3
 transformers==4.39.3
 typing_extensions==4.6.1
 urllib3==1.26.18
