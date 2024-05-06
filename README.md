@@ -10,6 +10,7 @@ inference phi3-mini model in:
 * Ollama
 * LlamaEdge
 * ONNX Runtime
+* iOS
 
 ## Getting Started
 
@@ -21,6 +22,8 @@ inference phi3-mini model in:
 ### Guideline
 
 please read my blog https://aka.ms/phi3gettingstarted  to run the demo 
+
+please read my blog and follow guildeline to run iPhone demo
 
 
 ## Resources
