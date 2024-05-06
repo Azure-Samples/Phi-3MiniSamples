@@ -90,7 +90,6 @@ After downloading, you need to add it to the Resources directory of the project 
 
  ### **F. Add the C++ API in ViewControllers**
 
- ***注意***：
  
 ***Notice***:
 
@@ -98,10 +97,16 @@ After downloading, you need to add it to the Resources directory of the project 
 
 
   ![head](../imgs/ios/head.png)
- 
-  2. Directly use the code on C Samples for testing in this samples. You can also directly add moreto run(such as ChatUI）
 
-  3. Because you need to call C++, please change ViewController.m to ViewController.mm
+
+  2. add onnxruntime-gen ai dylib in Xcode
+
+  
+  ![lib](../imgs/ios/lib.png)
+ 
+  3. Directly use the code on C Samples for testing in this samples. You can also directly add moreto run(such as ChatUI）
+
+  4. Because you need to call C++, please change ViewController.m to ViewController.mm
 
 ```objc
 
@@ -134,3 +139,6 @@ After downloading, you need to add it to the Resources directory of the project 
 ### **G. Look at the running results**
 
 ![result](../imgs/ios/result.jpg)
+
+
+***Notice:*** Please run in iPhone device , iOS 17.4
