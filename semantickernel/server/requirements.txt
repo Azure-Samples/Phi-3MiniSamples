@@ -22,8 +22,8 @@ torch==2.2.1
 tqdm==4.64.1
 transformers==4.39.3
 typing_extensions==4.6.1
-urllib3==1.26.18
-Werkzeug==3.0.3
+urllib3==1.26.19
+Werkzeug==2.3.8
 zipp==3.6.0
 pydantic==2.4.2
 sentencepiece==0.1.99
