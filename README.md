@@ -27,7 +27,7 @@ please read my blog and follow guildeline to run iPhone demo
 
 
 ## Resources
-
+- Phi-3 CookBook http://aka.ms/phi-3cookbook
 - Phi-3 Azure blog https://aka.ms/phi3blog-april
 - Phi-3 technical report https://aka.ms/phi3-tech-report
 - Learn ONNX Runtime Generative AI https://github.com/microsoft/onnxruntime-genai
