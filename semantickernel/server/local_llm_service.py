@@ -42,7 +42,7 @@ def local_llm_chat_completion_request(request,model):
         if "temperature" in json_data:
             temperature = json_data["temperature"]
         else:
-            temperature = 0.6
+            temperature = 0.3
 
         localLLMChatCompetetion = LocalLLMCompletion.LocalLLMCompletion(model)
 

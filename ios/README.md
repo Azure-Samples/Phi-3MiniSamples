@@ -11,7 +11,7 @@ please follow this guidline
 
 2. Xcode 15+
    
-3. iOS SDK 17.x 
+3. iOS SDK 17.x (iPhone 14 or iPhone 15 powered by a A16 or A17)
    
 4. Install Python 3.10+ (Conda is recommended)
    
